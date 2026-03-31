@@ -3,3 +3,4 @@ feature work line2
 feature work line2
 
 git stash.com git --help: git push
+new work
